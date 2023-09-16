@@ -3,6 +3,4 @@
 ![License](https://img.shields.io/github/license/IacobIonut01/Gallery?color=%23247EE0)
 
 ![](./screenshots/preview.png)
-![](./screenshots/items/support_banner.png)
-[![PayPal](./screenshots/items/support_paypal.png)](https://www.paypal.me/iacobionut01)
-[![Revolut](./screenshots/items/support_revolut.png)](https://revolut.me/somaldoaca)
+[![Support](./screenshots/items/support_banner.png)](https://yoomoney.ru/fundraise/mQ27yANz7FE.230916)
